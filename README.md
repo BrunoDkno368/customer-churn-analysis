@@ -193,15 +193,18 @@ Analizar la experiencia de usuarios del servicio Fiber Optic para detectar oport
 
 ### Executive Overview
 
-![Executive Overview](images/executive_overview.png)
+<img width="1262" height="668" alt="1 Executive Overiew" src="https://github.com/user-attachments/assets/77eb0dfd-823e-4c56-be26-b9711e2184d4" />
+
 
 ### Customer Segmentation
 
-![Customer Segmentation](images/customer_segmentation.png)
+<img width="885" height="537" alt="2 Customer Segmentation" src="https://github.com/user-attachments/assets/6ae0dfeb-0c78-4ed9-814a-ba30007667e2" />
+
 
 ### Retention Analysis
 
-![Retention Analysis](images/retention_analysis.png)
+<img width="876" height="533" alt="3 Retention Analysis" src="https://github.com/user-attachments/assets/24f2b359-7e0d-4aa2-9f5e-8e40b93e6754" />
+
 
 ---
 
